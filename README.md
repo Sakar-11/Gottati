@@ -3,7 +3,7 @@
 This is a Initial Setup For App
 
 
-Installation:
-yarn install
-npx react-native run-android
+Installation: <br /> 
+yarn install <br /> 
+npx react-native run-android <br /> 
 
